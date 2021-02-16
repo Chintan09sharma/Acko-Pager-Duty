@@ -1,0 +1,1 @@
+BAD_REQUEST = {"error_code": "ERR_4000", "detail": "Bad Request."}
